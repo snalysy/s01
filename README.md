@@ -4,5 +4,6 @@
 
 pm2 install
 
-npm stat
+npm st
+at
 
