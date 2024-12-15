@@ -3,7 +3,7 @@
 
 pm2 install
 
-npm st
-at
+npm start
+
 
 
